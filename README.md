@@ -53,7 +53,7 @@ This project documents the setup of AI-powered development tools in Cursor IDE, 
 - How to document technical setup steps clearly in a README
 
 ## Repository Link
-Add your GitHub repository link here after pushing the file.
+https://github.com/sakshinagsentayade/cursor-ai-setup-task
 
 ## Completion Date
 June 11, 2026
