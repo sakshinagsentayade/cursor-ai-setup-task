@@ -1,0 +1,1 @@
+print("Hello, I have successfully setup cursor ai and claude code")
